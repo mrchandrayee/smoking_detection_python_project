@@ -1,0 +1,12 @@
+{
+  "person_conf": 0.35,
+  "person_iou": 0.45,
+  "smoking_conf": 0.25,
+  "smoking_iou": 0.45,
+  "window_size": 5,
+  "alert_cooldown_sec": 2.5,
+  "alert_threshold": 0.3,
+  "crop_padding": 0.05,
+  "ui_scale": 1.0,
+  "snapshot_dir": "output/snapshots"
+}
